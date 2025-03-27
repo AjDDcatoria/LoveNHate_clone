@@ -7,7 +7,7 @@
         <section
             class="h-fit flex items-center justify-center flex-col lg:flex-row text-white gap-[7rem] min-h-[48rem] py-20">
             <div class="flex items-center jusfity-center h-[35rem]">
-                <img src="../assets/images/flavorProduct.webp" class="h-full w-full object-contain">
+                <img src="/public/flavorProduct.webp" class="h-full w-full object-contain">
             </div>
             <div class="max-w-full lg:max-w-[38rem] flex flex-col items-center lg:items-start w-full">
                 <div class="right">

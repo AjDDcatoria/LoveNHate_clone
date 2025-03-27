@@ -6,7 +6,7 @@
     <div class="hero px-10">
         <section class="grid py-10 grid-cols-1 lg:grid-cols-2 text-white gap-[7rem] min-h-[40rem] -translate-x-[0rem] lg:-translate-x-[5rem]">
             <div class="flex items-center justify-center lg:justify-end">
-                <img src="../assets/images/heroProduct.png" class="h-[30rem]">
+                <img src="/public/heroProduct.png" class="h-[30rem]">
             </div>
             <div class="flex justify-center items-center lg:items-start flex-col">
                 <p class="font-bold leading-10 text-center lg:text-left">
