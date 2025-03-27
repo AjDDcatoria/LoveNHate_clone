@@ -30,7 +30,7 @@
                                 <span>Cream</span>
                             </div>
                         </OutlinedButton>
-                        <OutlinedButton class="py-5 border-[#03DBFF] border-2 hover:border-[#49767EFF] hover:bg-[#20464CFF]">
+                        <OutlinedButton class="py5 border-[#03DBFF] border-2 hover:border-[#49767EFF] hover:bg-[#20464CFF]">
                             <div class="h-full w-full gap-3 flex items-start lg:items-center flex-col lg:flex-row">
                                 <img src="/public/box.png" alt="" class="h-10">
                                 <span>Mentol</span>
