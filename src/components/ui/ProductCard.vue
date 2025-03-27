@@ -9,8 +9,8 @@ const props = defineProps<ProductCartProps>();
 <template>
     <div class="bg-white h-fit">
         <div class="relative group border border-gray-300">
-            <img src="/public/product.jpg" alt=""
-                class="h-[20rem] w-full object-cover transition-all">
+            <image src="/public/product.jpg" alt=""
+                class="h-[20rem] w-full object-cover transition-all"/>
             <div
                 class="absolute inset-0 bg-black opacity-0 group-hover:opacity-50 transition-opacity animation duration-300 ease-in">
             </div>
